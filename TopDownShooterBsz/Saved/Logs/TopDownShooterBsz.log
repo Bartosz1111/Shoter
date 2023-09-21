@@ -1697,3 +1697,401 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.21-19.27.18:146][764]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AB-MArine012BAE23C74020BC090DE435AF1BB83AD8.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Marine/Animations/AB-MArine01.uasset'
 [2023.09.21-19.27.18:162][764]AssetCheck: New page: Asset Save: AB-MArine01
 [2023.09.21-19.27.18:162][764]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01
+[2023.09.21-19.27.42:582][  4]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-19.27.42:694][  4]LogBlueprint: Warning: [AssetLog] C:\Users\1465500\Documents\GitHub\Shoter\TopDownShooterBsz\Content\Characters\Marine\Animations\AB-MArine01.uasset: [Compiler] Idle to Walking  will never be taken, please connect something to  Can Enter Transition
+[2023.09.21-19.27.42:718][  4]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.42:720][  4]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.42:720][  4]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.42:750][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.09.21-19.27.42:762][  4]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.42:789][  4]LogSlate: Took 0.001310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.21-19.27.42:806][  5]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.42:955][  6]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.42:972][  7]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.42:996][  8]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.43:013][  9]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.43:030][ 10]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.43:046][ 11]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.43:063][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.43:079][ 13]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.43:096][ 14]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.43:112][ 15]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.27.43:129][ 16]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_2
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.00:768][807]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Idle.Idle
+[2023.09.21-19.28.00:892][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-19.28.01:504][807]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.21-19.28.44:933][342]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-19.28.44:962][342]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.44:962][342]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.44:962][342]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:018][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.09.21-19.28.45:025][342]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:059][343]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:267][344]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:284][345]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:307][346]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:324][347]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:340][348]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:359][349]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:377][350]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:392][351]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:410][352]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:427][353]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.28.45:443][354]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_3
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.03:750][625]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.21-19.29.03:755][625]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.21-19.29.03:756][625]LogPlayLevel: [PlayLevel] Compiling PB_Soldier01 before play...
+[2023.09.21-19.29.03:847][625]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2023.09.21-19.29.03:849][625]LogPlayLevel: PlayLevel: Blueprint regeneration took 94 ms (1 blueprints)
+[2023.09.21-19.29.03:849][625]PIE: New page: PIE session: main (21 wrz 2023, 23:29:03)
+[2023.09.21-19.29.03:849][625]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.21-19.29.03:851][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002003s)
+[2023.09.21-19.29.03:852][625]LogAIModule: Creating AISystem for world main
+[2023.09.21-19.29.03:852][625]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2023.09.21-19.29.03:852][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.003240s)
+[2023.09.21-19.29.03:887][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.09.21-19.29.03:888][625]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.09.21-19.29.03:888][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-19.29.03:888][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-19.29.03:888][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-19.29.03:888][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-19.29.03:888][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.21-19.29.03:888][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-19.29.03:888][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.21-19.29.03:888][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-19.29.03:888][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-19.29.03:888][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-19.29.03:888][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-19.29.03:888][625]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.21-19.29.03:891][625]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.21-19.29.03:891][625]LogAudioMixer: Display: 1: FrontRight
+[2023.09.21-19.29.03:994][625]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.21-19.29.03:994][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-19.29.03:994][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-19.29.03:994][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-19.29.03:994][625]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.21-19.29.03:994][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.21-19.29.03:994][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.21-19.29.03:997][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.21-19.29.03:997][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.21-19.29.03:997][625]LogInit: FAudioDevice initialized.
+[2023.09.21-19.29.03:997][625]LogAudio: Display: Audio Device (ID: 6) registered with world 'main'.
+[2023.09.21-19.29.04:006][625]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.21-19.29.04:008][625]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.21-21.29.04
+[2023.09.21-19.29.04:009][625]LogWorld: Bringing up level for play took: 0.000478
+[2023.09.21-19.29.04:009][625]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.09.21-19.29.04:012][625]PIE: Server logged in
+[2023.09.21-19.29.04:012][625]PIE: Play in editor total start time 0,259 seconds.
+[2023.09.21-19.29.30:817][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.29.30:817][227]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.21-19.29.30:817][227]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.29.30:818][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.29.30:827][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-19.29.30:836][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.29.30:869][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.29.30:869][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.29.30:870][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.29.30:893][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2023.09.21-19.29.30:920][228]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.09.21-19.29.50:204][662]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-19.29.50:207][662]LogBlueprint: Warning: [AssetLog] C:\Users\1465500\Documents\GitHub\Shoter\TopDownShooterBsz\Content\Characters\Marine\Animations\AB-MArine01.uasset: [Compiler] Walking to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.09.21-19.29.50:231][662]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:232][662]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:232][662]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:270][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.09.21-19.29.50:277][662]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:309][663]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:530][664]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:545][665]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:579][666]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:599][667]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:614][668]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:633][669]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:652][670]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:670][671]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:689][672]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:707][673]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.29.50:725][674]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_4
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:462][648]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-19.30.34:492][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:492][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:492][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:529][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.09.21-19.30.34:537][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:580][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:788][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:806][651]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:856][652]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:880][653]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:896][654]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:915][655]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:934][656]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:954][657]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:974][658]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.34:996][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.35:018][660]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_5
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0040
+[2023.09.21-19.30.40:062][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.09.21-19.30.40:122][871]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AB-MArine01D6831E7546782163C170D99A18AC836A.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Marine/Animations/AB-MArine01.uasset'
+[2023.09.21-19.30.40:139][871]AssetCheck: New page: Asset Save: AB-MArine01
+[2023.09.21-19.30.40:139][871]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01
+[2023.09.21-19.30.42:816][970]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.21-19.30.42:821][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-19.30.42:821][970]PIE: New page: PIE session: main (21 wrz 2023, 23:30:42)
+[2023.09.21-19.30.42:821][970]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.21-19.30.42:823][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001915s)
+[2023.09.21-19.30.42:824][970]LogAIModule: Creating AISystem for world main
+[2023.09.21-19.30.42:824][970]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2023.09.21-19.30.42:824][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.003145s)
+[2023.09.21-19.30.42:859][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.09.21-19.30.42:860][970]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.21-19.30.42:860][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-19.30.42:860][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-19.30.42:860][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-19.30.42:860][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-19.30.42:860][970]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.21-19.30.42:860][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-19.30.42:860][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.21-19.30.42:860][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-19.30.42:860][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-19.30.42:861][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-19.30.42:861][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-19.30.42:861][970]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.21-19.30.42:862][970]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.21-19.30.42:862][970]LogAudioMixer: Display: 1: FrontRight
+[2023.09.21-19.30.42:952][970]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.21-19.30.42:952][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-19.30.42:952][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-19.30.42:952][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-19.30.42:952][970]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.21-19.30.42:952][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.21-19.30.42:952][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.21-19.30.42:954][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.21-19.30.42:954][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.21-19.30.42:954][970]LogInit: FAudioDevice initialized.
+[2023.09.21-19.30.42:954][970]LogAudio: Display: Audio Device (ID: 7) registered with world 'main'.
+[2023.09.21-19.30.42:962][970]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.21-19.30.42:965][970]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.21-21.30.42
+[2023.09.21-19.30.42:965][970]LogWorld: Bringing up level for play took: 0.000601
+[2023.09.21-19.30.42:965][970]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.09.21-19.30.42:968][970]PIE: Server logged in
+[2023.09.21-19.30.42:969][970]PIE: Play in editor total start time 0,149 seconds.
+[2023.09.21-19.31.48:125][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.31.48:125][870]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.21-19.31.48:125][870]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.31.48:126][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.31.48:136][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-19.31.48:148][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.31.48:186][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.21-19.31.48:186][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.31.48:187][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.31.48:202][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.31.48:208][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.09.21-19.31.48:240][871]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.09.21-19.33.52:976][553]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.33.52:977][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.33.53:012][553]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.33.53:012][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.33.53:059][553]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.33.53:059][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.33.55:662][655]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.33.55:662][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.33.57:651][748]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.33.57:651][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.33.59:567][847]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.33.59:568][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.35.42:612][125]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2023.09.21-19.35.42:620][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.075
+[2023.09.21-19.35.42:620][125]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AB-MArine01] ([2] browsable assets)...
+[2023.09.21-19.35.42:645][125]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01]
+[2023.09.21-19.35.42:645][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AB-MArine01]
+[2023.09.21-19.35.42:664][125]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AB-MArine01_Auto700014412480C2FFB02222E9BC3129234.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Characters/Marine/Animations/AB-MArine01_Auto7.uasset'
+[2023.09.21-19.35.42:666][125]LogFileHelpers: Auto-saving content packages took 0.046
+[2023.09.21-19.39.30:294][775]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-19.39.30:302][775]LogBlueprint: Error: [AssetLog] C:\Users\1465500\Documents\GitHub\Shoter\TopDownShooterBsz\Content\Characters\Marine\Animations\AB-MArine01.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2023.09.21-19.39.30:365][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2023.09.21-19.39.44:177][161]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-19.39.44:204][161]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:204][161]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:205][161]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:245][161]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2023.09.21-19.39.44:254][161]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:301][162]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:401][163]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:417][164]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:451][165]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:467][166]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:488][167]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:507][168]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:537][169]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:569][170]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:589][171]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:637][172]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.39.44:654][173]LogScript: Warning: Accessed None trying to read property As PB Soldier 01
+	AB-MArine01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB-MArine01_C_7
+	Function /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01_C:ExecuteUbergraph_AB-MArine01:0028
+[2023.09.21-19.41.40:101][898]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-19.41.40:168][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.09.21-19.43.31:887][352]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-19.43.31:959][352]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2023.09.21-19.43.34:033][439]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2023.09.21-19.43.34:098][439]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AB-MArine013D9F2A9F4EBB230EB9CB86AF4B39CE34.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Marine/Animations/AB-MArine01.uasset'
+[2023.09.21-19.43.34:115][439]AssetCheck: New page: Asset Save: AB-MArine01
+[2023.09.21-19.43.34:115][439]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01
