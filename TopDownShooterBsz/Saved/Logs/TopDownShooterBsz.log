@@ -903,3 +903,164 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.21-17.22.34:599][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.09.21-17.22.34:834][  3]LogAssetRegistry: Asset discovery search completed in 6.3306 seconds
 [2023.09.21-17.22.34:839][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2023.09.21-17.25.14:403][354]LogSlate: Window 'Save Level As' being destroyed
+[2023.09.21-17.26.58:216][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.09.21-17.27.14:320][896]LogSlate: Window 'Save Level As' being destroyed
+[2023.09.21-17.27.14:336][896]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.21-17.27.14:361][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main" FILE="../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.21-17.27.14:368][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.09.21-17.27.14:384][896]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/mainA77B302942B6F442B1922DBFE43E5C1F.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/main.umap'
+[2023.09.21-17.27.14:390][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_BuiltData" FILE="../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/main_BuiltData.uasset" SILENT=true
+[2023.09.21-17.27.14:409][896]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/main_BuiltData01C11583434CE0081BC2D6968CEFBD40.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/main_BuiltData.uasset'
+[2023.09.21-17.27.14:420][896]LogFileHelpers: Saving map 'main' took 0.090
+[2023.09.21-17.27.14:425][896]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.21-17.27.14:425][896]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_BuiltData.main_BuiltData
+[2023.09.21-17.27.14:426][896]LogContentValidation: Display: Validating World /Game/main.main
+[2023.09.21-17.27.14:492][898]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.21-17.28.07:891][544]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.21-17.28.07:937][544]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.21-17.28.09:827][658]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.09.21-17.28.09:827][658]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.21-17.28.29:909][804]LogSlate: Window 'Statistics' being destroyed
+[2023.09.21-17.28.29:916][804]LogSlate: Window 'Statistics' being destroyed
+[2023.09.21-17.29.07:847][483]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.21-17.29.16:934][ 10]LogContentBrowser: Attempting asset rename: NewFolder -> MainFolder
+[2023.09.21-17.29.24:772][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFolder/main_BuiltData" FILE="../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/MainFolder/main_BuiltData.uasset" SILENT=true
+[2023.09.21-17.29.24:784][422]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/main_BuiltData83002ADA46A33649292D13B64DE987F4.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/MainFolder/main_BuiltData.uasset'
+[2023.09.21-17.29.24:793][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.09.21-17.29.24:800][422]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/main760CDE814F15090A9264C1AFB7F22877.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/MainFolder/main.umap'
+[2023.09.21-17.29.24:802][422]LogFileHelpers: Saving map 'main' took 0.016
+[2023.09.21-17.29.24:896][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.21-17.29.24:900][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.09.21-17.29.24:909][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.09.21-17.29.24:914][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.09.21-17.29.24:955][422]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.21-17.29.24:955][422]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainFolder/main_BuiltData.main_BuiltData
+[2023.09.21-17.29.24:955][422]LogContentValidation: Display: Validating World /Game/MainFolder/main.main
+[2023.09.21-17.34.10:110][102]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters.zip'. Unknown extension 'zip'.
+[2023.09.21-17.34.27:369][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:371][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:373][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:375][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Cast_Roar.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:377][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Cast_Summon.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:380][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Charge.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:382][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:384][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Falling.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:385][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Idle.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:387][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Heavy_Front.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:388][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Knockback_Front.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:390][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:392][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Enter.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:394][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Exit.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:395][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Idle.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:397][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Teleport.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:399][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Bwd.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:400][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Fwd.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:402][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Left.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:403][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Right.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:405][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:407][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider_Ice.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:409][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/SK_Greater_Spider.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:412][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:414][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:415][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:417][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:418][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Ice_D.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:420][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Animations/Death.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:422][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Animations/Idle.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:424][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Animations/Run_Bwd.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:426][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Animations/Run_Fwd.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:428][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Animations/Run_Lt.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:431][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Animations/Run_Rt.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:432][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Animations/Sprint.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:434][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Marine.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:436][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Marine_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:439][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Marine_Skeleton.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:441][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/MI_Marine.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:444][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/ML_Base.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:445][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/ML_Emissive_Custom.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:447][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/ML_Glass.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:449][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/ML_Metal_light.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:451][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/ML_Metal_Painted.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:453][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/ML_Rubber_dark.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:455][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/ML_Rubber_light.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:457][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/M_BodyDamage.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:458][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Materials/M_Marine.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:461][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Chr_FPS_02_M.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:463][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Chr_FPS_D.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:465][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Chr_FPS_Fabric_N_01.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:467][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Chr_FPS_M.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:468][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Chr_FPS_Metal_01.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:469][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Chr_FPS_Metal_02.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:471][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Chr_FPS_M_03tga.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:473][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Chr_FPS_N.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:475][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/holo_layer_1_5.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:477][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/Tiles/T_Sctraches_01.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.27:479][300]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Characters/Marine/Textures/T_Vista_Grass_N.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.34.36:393][316]LogSlate: Took 0.009815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.21-17.34.57:276][956]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters.zip'. Unknown extension 'zip'.
+[2023.09.21-17.35.02:239][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:241][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:243][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:245][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Cast_Roar.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:248][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Cast_Summon.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:250][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Charge.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:252][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:254][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Falling.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:256][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Idle.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:257][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Heavy_Front.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:259][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Knockback_Front.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:261][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:263][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Enter.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:265][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Exit.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:267][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Idle.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:269][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Teleport.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:271][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Bwd.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:273][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Fwd.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:275][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Left.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:277][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Right.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:278][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:280][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider_Ice.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:283][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/SK_Greater_Spider.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:284][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:286][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:288][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:289][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:291][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Ice_D.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:293][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Animations/Death.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:295][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Animations/Idle.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:297][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Animations/Run_Bwd.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:299][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Animations/Run_Fwd.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:301][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Animations/Run_Lt.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:303][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Animations/Run_Rt.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:305][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Animations/Sprint.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:306][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Marine.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:308][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Marine_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:310][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Marine_Skeleton.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:312][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/MI_Marine.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:315][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/ML_Base.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:317][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/ML_Emissive_Custom.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:318][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/ML_Glass.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:320][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/ML_Metal_light.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:322][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/ML_Metal_Painted.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:323][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/ML_Rubber_dark.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:325][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/ML_Rubber_light.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:328][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/M_BodyDamage.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:330][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Materials/M_Marine.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:332][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Chr_FPS_02_M.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:334][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Chr_FPS_D.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:336][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Chr_FPS_Fabric_N_01.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:338][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Chr_FPS_M.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:340][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Chr_FPS_Metal_01.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:342][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Chr_FPS_Metal_02.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:344][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Chr_FPS_M_03tga.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:346][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Chr_FPS_N.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:348][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/holo_layer_1_5.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:351][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/Tiles/T_Sctraches_01.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.35.02:353][  4]LogAssetTools: Warning: Failed to import 'C:\Users\1465500\Desktop\Nowy folder (2)\Characters/Marine/Textures/T_Vista_Grass_N.uasset'. Unknown extension 'uasset'.
+[2023.09.21-17.36.49:137][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.09.21-17.40.52:368][ 27]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.21-17.40.52:376][ 27]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.21-17.40.59:758][470]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.09.21-17.40.59:758][470]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.21-17.41.09:572][  5]LogSlate: Window 'Color Picker' being destroyed
