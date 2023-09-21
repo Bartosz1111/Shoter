@@ -2095,3 +2095,106 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.21-19.43.34:098][439]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AB-MArine013D9F2A9F4EBB230EB9CB86AF4B39CE34.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Marine/Animations/AB-MArine01.uasset'
 [2023.09.21-19.43.34:115][439]AssetCheck: New page: Asset Save: AB-MArine01
 [2023.09.21-19.43.34:115][439]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01
+[2023.09.21-19.48.23:748][692]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.09.21-19.48.23:758][692]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2023.09.21-19.48.23:777][692]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2023.09.21-19.48.34:476][870]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS-Marine01
+[2023.09.21-19.48.34:477][870]LogContentBrowser: End creating deferred item NewBlendSpace
+[2023.09.21-19.48.53:368][996]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Marine/Animations/BS-Marine01.BS-Marine01
+[2023.09.21-19.48.53:371][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-19.48.53:794][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.21-19.59.15:666][240]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/BS-Marine01E34064B6466441D6DF67C1A77D6530EE.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Marine/Animations/BS-Marine01.uasset'
+[2023.09.21-19.59.15:688][240]AssetCheck: New page: Asset Save: BS-Marine01
+[2023.09.21-19.59.15:688][240]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/BS-Marine01.BS-Marine01
+[2023.09.21-20.01.18:981][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.09.21-20.01.18:990][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.049
+[2023.09.21-20.01.18:990][293]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Marine/Animations/BS-Marine01] ([1] browsable assets)...
+[2023.09.21-20.01.19:011][293]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Characters/Marine/Animations/BS-Marine01.BS-Marine01]
+[2023.09.21-20.01.19:011][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/BS-Marine01]
+[2023.09.21-20.01.19:016][293]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/BS-Marine01_Auto84A9835834A7EE15D418D22B643BAEA43.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Characters/Marine/Animations/BS-Marine01_Auto8.uasset'
+[2023.09.21-20.01.19:017][293]LogFileHelpers: Auto-saving content packages took 0.028
+[2023.09.21-20.05.58:389][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Bwd.Run_Bwd
+[2023.09.21-20.06.10:149][259]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Lt.Run_Lt
+[2023.09.21-20.06.15:950][448]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Rt.Run_Rt
+[2023.09.21-20.08.12:474][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.09.21-20.08.12:539][ 39]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/BS-Marine012BAADAC64D2F7E76FE022FA7AFAA4C62.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Marine/Animations/BS-Marine01.uasset'
+[2023.09.21-20.08.12:554][ 39]AssetCheck: New page: Asset Save: BS-Marine01
+[2023.09.21-20.08.12:554][ 39]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/BS-Marine01.BS-Marine01
+[2023.09.21-20.09.17:722][857]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-20.09.17:802][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.09.21-20.11.08:371][ 96]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-20.11.08:444][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2023.09.21-20.12.09:354][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.09.21-20.12.09:359][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.044
+[2023.09.21-20.12.09:359][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AB-MArine01] ([2] browsable assets)...
+[2023.09.21-20.12.09:382][140]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01]
+[2023.09.21-20.12.09:382][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AB-MArine01]
+[2023.09.21-20.12.09:406][140]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AB-MArine01_Auto94C7D71F4410C61DD09B79BB257BF2A39.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Characters/Marine/Animations/AB-MArine01_Auto9.uasset'
+[2023.09.21-20.12.09:407][140]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.09.21-20.14.32:152][781]LogSlate: Window 'Save Asset As' being destroyed
+[2023.09.21-20.14.34:622][868]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AB-MArine01E597FEB1481A8B0B925C3EB0C2D668A6.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Marine/Animations/AB-MArine01.uasset'
+[2023.09.21-20.14.34:642][868]AssetCheck: New page: Asset Save: AB-MArine01
+[2023.09.21-20.14.34:642][868]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01
+[2023.09.21-20.14.36:707][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.09.21-20.14.38:257][  3]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-20.14.38:322][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.09.21-20.15.25:620][307]BlueprintLog: New page: Compile AB-MArine01
+[2023.09.21-20.15.25:690][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.09.21-20.15.29:024][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.09.21-20.15.29:094][416]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AB-MArine019C1EADAA4957E10F924E6AA14DFA5209.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Marine/Animations/AB-MArine01.uasset'
+[2023.09.21-20.15.29:114][416]AssetCheck: New page: Asset Save: AB-MArine01
+[2023.09.21-20.15.29:114][416]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AB-MArine01.AB-MArine01
+[2023.09.21-20.15.57:639][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.09.21-20.16.12:723][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.21-20.16.12:729][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-20.16.12:729][ 99]PIE: New page: PIE session: main (22 wrz 2023, 00:16:12)
+[2023.09.21-20.16.12:729][ 99]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.21-20.16.12:733][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003203s)
+[2023.09.21-20.16.12:733][ 99]LogAIModule: Creating AISystem for world main
+[2023.09.21-20.16.12:734][ 99]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2023.09.21-20.16.12:734][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.004522s)
+[2023.09.21-20.16.12:769][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.09.21-20.16.12:772][ 99]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.09.21-20.16.12:772][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-20.16.12:772][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-20.16.12:772][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-20.16.12:772][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-20.16.12:772][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.21-20.16.12:772][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-20.16.12:772][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.21-20.16.12:772][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-20.16.12:773][ 99]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-20.16.12:773][ 99]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-20.16.12:773][ 99]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-20.16.12:773][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.21-20.16.12:774][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.21-20.16.12:774][ 99]LogAudioMixer: Display: 1: FrontRight
+[2023.09.21-20.16.12:882][ 99]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.21-20.16.12:882][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-20.16.12:882][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-20.16.12:882][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-20.16.12:884][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.21-20.16.12:884][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.21-20.16.12:884][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.21-20.16.12:884][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.21-20.16.12:884][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.21-20.16.12:884][ 99]LogInit: FAudioDevice initialized.
+[2023.09.21-20.16.12:884][ 99]LogAudio: Display: Audio Device (ID: 8) registered with world 'main'.
+[2023.09.21-20.16.12:903][ 99]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.21-20.16.12:904][ 99]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.21-22.16.12
+[2023.09.21-20.16.12:904][ 99]LogWorld: Bringing up level for play took: 0.000621
+[2023.09.21-20.16.12:904][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.09.21-20.16.12:908][ 99]PIE: Server logged in
+[2023.09.21-20.16.12:909][ 99]PIE: Play in editor total start time 0,181 seconds.
+[2023.09.21-20.16.25:219][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-20.16.25:220][833]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.21-20.16.25:220][833]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-20.16.25:220][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-20.16.25:233][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-20.16.25:246][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-20.16.25:278][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.21-20.16.25:278][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-20.16.25:279][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-20.16.25:294][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-20.16.25:297][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.09.21-20.16.25:327][834]LogPlayLevel: Display: Destroying online subsystem :Context_30
