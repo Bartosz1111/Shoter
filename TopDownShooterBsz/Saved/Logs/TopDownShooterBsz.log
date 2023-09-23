@@ -4981,3 +4981,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.23-14.08.41:303][529]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier017F56BCEF47F387F398B7C4BBA1A91A45.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Blueprints/Pawns/PB_Soldier01.uasset'
 [2023.09.23-14.08.41:319][529]AssetCheck: New page: Asset Save: PB_Soldier01
 [2023.09.23-14.08.41:319][529]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01
+[2023.09.23-14.13.10:112][775]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2023.09.23-14.13.14:247][ 22]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.09.23-14.15.50:491][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.09.23-14.15.50:495][369]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.031
+[2023.09.23-14.25.50:688][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.23-14.25.50:692][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.032
+[2023.09.23-14.26.53:876][114]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.23-14.26.53:884][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.23-14.26.53:884][114]PIE: New page: PIE session: main (23 wrz 2023, 18:26:53)
+[2023.09.23-14.26.53:929][114]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.23-14.26.53:934][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004465s)
+[2023.09.23-14.26.53:935][114]LogAIModule: Creating AISystem for world main
+[2023.09.23-14.26.53:936][114]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2023.09.23-14.26.53:936][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.006345s)
+[2023.09.23-14.26.53:961][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.09.23-14.26.53:964][114]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.09.23-14.26.53:964][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.23-14.26.53:964][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.23-14.26.53:965][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.23-14.26.53:965][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.23-14.26.53:965][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.23-14.26.53:965][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.23-14.26.53:965][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.23-14.26.53:965][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.23-14.26.53:965][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.23-14.26.53:965][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.23-14.26.53:965][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.23-14.26.53:965][114]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.23-14.26.53:968][114]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.23-14.26.53:968][114]LogAudioMixer: Display: 1: FrontRight
+[2023.09.23-14.26.54:071][114]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.23-14.26.54:071][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.23-14.26.54:071][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.23-14.26.54:071][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.23-14.26.54:072][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.23-14.26.54:073][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.23-14.26.54:073][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.23-14.26.54:074][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.23-14.26.54:074][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.23-14.26.54:074][114]LogInit: FAudioDevice initialized.
+[2023.09.23-14.26.54:074][114]LogAudio: Display: Audio Device (ID: 12) registered with world 'main'.
+[2023.09.23-14.26.54:081][114]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.23-14.26.54:083][114]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.23-16.26.54
+[2023.09.23-14.26.54:083][114]LogWorld: Bringing up level for play took: 0.000570
+[2023.09.23-14.26.54:083][114]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.09.23-14.26.54:087][114]PIE: Server logged in
+[2023.09.23-14.26.54:087][114]PIE: Play in editor total start time 0,204 seconds.
+[2023.09.23-14.27.01:264][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.23-14.27.01:264][541]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.23-14.27.01:264][541]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.23-14.27.01:264][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.23-14.27.01:272][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.23-14.27.01:281][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.23-14.27.01:307][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.23-14.27.01:307][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.23-14.27.01:308][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.23-14.27.01:323][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.23-14.27.01:327][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.09.23-14.27.01:355][542]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.23-14.27.33:361][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
