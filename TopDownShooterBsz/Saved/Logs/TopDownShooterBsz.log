@@ -2270,3 +2270,17 @@ Script Stack (0 frames):
 [2023.09.26-16.16.52:798][238]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier016B3ED0D94F3E8766D9D4EC81F892930A.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Blueprints/Pawns/PB_Soldier01.uasset'
 [2023.09.26-16.16.52:814][238]AssetCheck: New page: Asset Save: PB_Soldier01
 [2023.09.26-16.16.52:814][238]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01
+[2023.09.26-16.35.40:612][958]LogSlate: Took 0.005174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.09.26-16.36.29:108][334]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.09.26-16.36.29:156][334]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2023.09.26-16.36.30:092][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.09.26-16.36.30:098][378]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/W_PlayerHUD48AAE05B46476B0C63BE7EA1B816858B.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/UI/W_PlayerHUD.uasset'
+[2023.09.26-16.36.30:110][378]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.09.26-16.36.30:110][378]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.09.26-16.43.37:055][446]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2023.09.26-16.43.37:056][446]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.042
+[2023.09.26-16.43.37:057][446]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/PB_Soldier01] ([2] browsable assets)...
+[2023.09.26-16.43.37:090][446]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01]
+[2023.09.26-16.43.37:090][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/PB_Soldier01]
+[2023.09.26-16.43.37:115][446]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01_Auto4E41D3C514FBD894336C051B6F849B7C0.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Blueprints/Pawns/PB_Soldier01_Auto4.uasset'
+[2023.09.26-16.43.37:116][446]LogFileHelpers: Auto-saving content packages took 0.060
