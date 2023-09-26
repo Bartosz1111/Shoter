@@ -1209,3 +1209,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.26-11.02.47:919][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.09.26-11.02.47:922][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
 [2023.09.26-11.02.47:959][160]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.09.26-11.03.28:873][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.09.26-11.03.28:874][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.025
+[2023.09.26-11.03.28:874][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/PB_Soldier01] ([2] browsable assets)...
+[2023.09.26-11.03.28:905][393]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01]
+[2023.09.26-11.03.28:905][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/PB_Soldier01]
+[2023.09.26-11.03.28:924][393]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01_Auto3E273D04F4514494A84CD608ED323F4A9.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Blueprints/Pawns/PB_Soldier01_Auto3.uasset'
+[2023.09.26-11.03.28:927][393]LogFileHelpers: Auto-saving content packages took 0.053
+[2023.09.26-11.03.41:829][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.09.26-11.03.41:848][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/PB_Soldier01" FILE="../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Blueprints/Pawns/PB_Soldier01.uasset" SILENT=true
+[2023.09.26-11.03.41:861][521]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01743563B7489F5DE8184E538CA6DC9896.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Blueprints/Pawns/PB_Soldier01.uasset'
+[2023.09.26-11.03.41:874][521]AssetCheck: New page: Asset Save: PB_Soldier01
+[2023.09.26-11.03.41:874][521]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01
+[2023.09.26-11.05.44:304][870]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.09.26-11.09.24:263][955]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.09.26-11.09.24:272][955]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.26-11.09.31:060][342]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.26-11.09.31:161][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.09.26-11.13.29:350][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.09.26-11.13.29:352][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.054
+[2023.09.26-11.13.29:353][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/PB_Soldier01] ([2] browsable assets)...
+[2023.09.26-11.13.29:383][609]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01]
+[2023.09.26-11.13.29:383][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/PB_Soldier01]
+[2023.09.26-11.13.29:400][609]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01_Auto4C2A6C0B9472330471DECE5B9791A0CF3.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Blueprints/Pawns/PB_Soldier01_Auto4.uasset'
+[2023.09.26-11.13.29:401][609]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.09.26-11.39.59:644][424]LogSlate: Window 'Project Settings' being destroyed
+[2023.09.26-11.41.12:441][739]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.26-11.41.12:495][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.09.26-11.41.31:210][842]LogSlate: Window 'Color Picker' being destroyed
