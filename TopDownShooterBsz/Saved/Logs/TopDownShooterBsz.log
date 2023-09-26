@@ -1484,3 +1484,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.26-15.05.10:268][455]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01EFB9035640EFFE0F5F60798FC1E022F8.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Blueprints/Pawns/PB_Soldier01.uasset'
 [2023.09.26-15.05.10:283][455]AssetCheck: New page: Asset Save: PB_Soldier01
 [2023.09.26-15.05.10:283][455]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01
+[2023.09.26-15.05.21:843][673]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-15.05.21:852][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-15.05.21:852][673]PIE: New page: PIE session: main (26 wrz 2023, 19:05:21)
+[2023.09.26-15.05.21:876][673]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.05.21:878][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001827s)
+[2023.09.26-15.05.21:879][673]LogAIModule: Creating AISystem for world main
+[2023.09.26-15.05.21:879][673]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2023.09.26-15.05.21:879][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.003096s)
+[2023.09.26-15.05.21:905][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.09.26-15.05.21:906][673]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.09.26-15.05.21:906][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-15.05.21:906][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-15.05.21:906][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-15.05.21:906][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-15.05.21:906][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-15.05.21:906][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-15.05.21:906][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-15.05.21:906][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-15.05.21:906][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-15.05.21:906][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-15.05.21:906][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-15.05.21:906][673]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-15.05.21:908][673]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-15.05.21:908][673]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-15.05.22:005][673]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-15.05.22:005][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-15.05.22:005][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-15.05.22:005][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-15.05.22:005][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-15.05.22:005][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-15.05.22:005][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-15.05.22:006][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-15.05.22:006][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-15.05.22:006][673]LogInit: FAudioDevice initialized.
+[2023.09.26-15.05.22:006][673]LogAudio: Display: Audio Device (ID: 5) registered with world 'main'.
+[2023.09.26-15.05.22:018][673]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.26-15.05.22:020][673]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.26-17.05.22
+[2023.09.26-15.05.22:020][673]LogWorld: Bringing up level for play took: 0.000446
+[2023.09.26-15.05.22:020][673]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.09.26-15.05.22:023][673]PIE: Server logged in
+[2023.09.26-15.05.22:024][673]PIE: Play in editor total start time 0,173 seconds.
+[2023.09.26-15.05.32:057][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.05.32:057][272]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.05.32:058][272]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-15.05.32:058][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.05.32:064][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-15.05.32:068][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.05.32:091][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-15.05.32:092][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.05.32:093][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.05.32:108][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.05.32:110][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.09.26-15.05.32:150][274]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.09.26-15.09.39:511][712]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.09.26-15.09.39:525][712]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.09.26-15.09.45:626][ 78]LogContentBrowser: Attempting asset rename: NewSoundCue -> RandomFireLoop
+[2023.09.26-15.09.45:632][ 78]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.09.26-15.10.02:523][ 52]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop01_Stereo...
+[2023.09.26-15.10.02:523][ 52]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.AssaultRifle_ShotLoop01_Stereo will be modified from 80 to 80.
+[2023.09.26-15.10.02:691][ 52]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 317292 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.AssaultRifle_ShotLoop01_Stereo.
+[2023.09.26-15.10.16:569][780]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AssaultRifle_ShotLoop01_StereoC46E12AA4871FEC9A2A9938D00A816C8.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.uasset'
+[2023.09.26-15.10.16:645][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2023.09.26-15.10.16:705][780]AssetCheck: New page: Asset Save: AssaultRifle_ShotLoop01_Stereo
+[2023.09.26-15.10.16:705][780]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.AssaultRifle_ShotLoop01_Stereo
+[2023.09.26-15.10.17:360][815]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop02_Stereo...
+[2023.09.26-15.10.17:360][815]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.AssaultRifle_ShotLoop02_Stereo will be modified from 80 to 80.
+[2023.09.26-15.10.17:384][815]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 301920 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.AssaultRifle_ShotLoop02_Stereo.
+[2023.09.26-15.10.18:928][883]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AssaultRifle_ShotLoop02_Stereo99E2E6014AAC1AB1AB0721A3D091779D.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.uasset'
+[2023.09.26-15.10.18:995][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.09.26-15.10.19:033][883]AssetCheck: New page: Asset Save: AssaultRifle_ShotLoop02_Stereo
+[2023.09.26-15.10.19:033][883]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.AssaultRifle_ShotLoop02_Stereo
+[2023.09.26-15.10.19:589][909]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop03_Stereo...
+[2023.09.26-15.10.19:589][909]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo will be modified from 80 to 80.
+[2023.09.26-15.10.19:615][909]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 317288 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo.
+[2023.09.26-15.10.21:405][985]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AssaultRifle_ShotLoop03_Stereo7278069740AAE790E4573AA81280F760.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.uasset'
+[2023.09.26-15.10.21:475][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.09.26-15.10.21:514][985]AssetCheck: New page: Asset Save: AssaultRifle_ShotLoop03_Stereo
+[2023.09.26-15.10.21:514][985]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo
+[2023.09.26-15.10.34:408][678]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.RandomFireLoop
+[2023.09.26-15.10.59:118][ 34]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.09.26-15.10.59:265][ 34]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.147 s
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: === Handled ensure: ===
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: 
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: Found circular redirect from /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo to /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo! Returning None instead
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: Stack: 
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdaf38ff53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdaef03e30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdaeee58b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd8bcc18be UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd8bca7141 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd8bc45d1a UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd8bcc1112 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd8bc8cb62 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd4fde2768 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd4fde2bf5 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd4fda2710 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd8c5baadf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd8c5eed1b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffd8c64373d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafb01b55 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafb08370 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafadc587 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafb7a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafb9280e UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafb09ae5 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdaf9e421e UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafa5e104 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafa47097 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffdafa39b62 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffde616c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffde61592b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffde616e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffde6154410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffe1d398241 USER32.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffe1d397d01 USER32.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffde616fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ff6d1907621 UE4Editor.exe!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ff6d1920fcc UE4Editor.exe!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ff6d19210ba UE4Editor.exe!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ff6d19240dd UE4Editor.exe!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ff6d1935984 UE4Editor.exe!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ff6d193853a UE4Editor.exe!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffe1dad257d KERNEL32.DLL!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: [Callstack] 0x00007ffe1ed0aa68 ntdll.dll!UnknownFunction []
+[2023.09.26-15.10.59:265][ 34]LogOutputDevice: Error: 
+[2023.09.26-15.10.59:270][ 34]LogStats:                SubmitErrorReport -  0.000 s
+[2023.09.26-15.11.02:551][ 34]LogStats:                    SendNewReport -  3.282 s
+[2023.09.26-15.11.02:551][ 34]LogStats:             FDebug::EnsureFailed -  3.434 s
+[2023.09.26-15.11.02:579][ 34]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AssaultRifle_ShotLoop03_Stereo4904C902434FAB0ACA5350BC35F777ED.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.uasset'
+[2023.09.26-15.11.02:645][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.09.26-15.11.02:683][ 34]AssetCheck: New page: Asset Save: AssaultRifle_ShotLoop03_Stereo
+[2023.09.26-15.11.02:683][ 34]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo
+[2023.09.26-15.11.02:684][ 34]LogAudioMixer: Resetting audio stream to device id 
+[2023.09.26-15.11.02:789][ 34]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-15.11.02:789][ 34]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-15.15.17:205][193]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.RandomFireLoop was zero and has changed. Consider manually Re-saving the asset
+[2023.09.26-15.15.57:663][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.09.26-15.15.57:688][802]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/RandomFireLoopDC386A2A4C92D8648D15969094E0A57D.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.uasset'
+[2023.09.26-15.15.57:702][802]AssetCheck: New page: Asset Save: RandomFireLoop
+[2023.09.26-15.15.57:702][802]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.RandomFireLoop
+[2023.09.26-15.16.27:426][513]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/RandomFireLoop89AA27434EBB3642FBA05DBD1A1B4960.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.uasset'
+[2023.09.26-15.16.27:439][513]AssetCheck: New page: Asset Save: RandomFireLoop
+[2023.09.26-15.16.27:439][513]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.RandomFireLoop
+[2023.09.26-15.17.17:701][904]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.26-15.17.17:755][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2023.09.26-15.18.26:017][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.09.26-15.18.26:018][593]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.034
+[2023.09.26-15.18.26:018][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/PB_Soldier01] ([2] browsable assets)...
+[2023.09.26-15.18.26:084][593]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01]
+[2023.09.26-15.18.26:084][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/PB_Soldier01]
+[2023.09.26-15.18.26:125][593]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01_Auto0A616853F4ED6104DA3E5419386D589CA.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Blueprints/Pawns/PB_Soldier01_Auto0.uasset'
+[2023.09.26-15.18.26:126][593]LogFileHelpers: Auto-saving content packages took 0.109
+[2023.09.26-15.21.18:777][691]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.26-15.21.18:831][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.09.26-15.21.59:930][ 79]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.26-15.21.59:982][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
