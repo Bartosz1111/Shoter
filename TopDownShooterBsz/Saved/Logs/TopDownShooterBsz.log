@@ -1644,3 +1644,371 @@ Script Stack (0 frames):
 [2023.09.26-15.21.18:831][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
 [2023.09.26-15.21.59:930][ 79]BlueprintLog: New page: Compile PB_Soldier01
 [2023.09.26-15.21.59:982][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.09.26-15.22.41:012][518]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-15.22.41:018][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-15.22.41:018][518]PIE: New page: PIE session: main (26 wrz 2023, 19:22:41)
+[2023.09.26-15.22.41:053][518]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.22.41:056][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002842s)
+[2023.09.26-15.22.41:057][518]LogAIModule: Creating AISystem for world main
+[2023.09.26-15.22.41:057][518]LogPlayLevel: PIE: World Init took: (0.001534s)
+[2023.09.26-15.22.41:057][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.004578s)
+[2023.09.26-15.22.41:085][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.09.26-15.22.41:086][518]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.09.26-15.22.41:086][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-15.22.41:086][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-15.22.41:086][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-15.22.41:086][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-15.22.41:086][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-15.22.41:086][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-15.22.41:086][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-15.22.41:086][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-15.22.41:086][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-15.22.41:086][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-15.22.41:086][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-15.22.41:086][518]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-15.22.41:089][518]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-15.22.41:089][518]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-15.22.41:183][518]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-15.22.41:183][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-15.22.41:183][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-15.22.41:183][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-15.22.41:184][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-15.22.41:184][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-15.22.41:184][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-15.22.41:185][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-15.22.41:185][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-15.22.41:185][518]LogInit: FAudioDevice initialized.
+[2023.09.26-15.22.41:185][518]LogAudio: Display: Audio Device (ID: 6) registered with world 'main'.
+[2023.09.26-15.22.41:192][518]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.26-15.22.41:193][518]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.26-17.22.41
+[2023.09.26-15.22.41:193][518]LogWorld: Bringing up level for play took: 0.000629
+[2023.09.26-15.22.41:193][518]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.09.26-15.22.41:197][518]PIE: Server logged in
+[2023.09.26-15.22.41:197][518]PIE: Play in editor total start time 0,18 seconds.
+[2023.09.26-15.22.41:919][560]LogScript: Warning: Accessed None trying to read property FireSound
+	PB_Soldier01_C /Game/MainFolder/UEDPIE_0_main.main:PersistentLevel.PB_Soldier01_C_0
+	Function /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C:StopFiringWeapon:0033
+[2023.09.26-15.22.41:919][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FireSound". Blueprint:  PB_Soldier01 Function:  Stop Firing Weapon Graph:  StopFiringWeapon Node:  Stop
+[2023.09.26-15.22.44:036][687]LogScript: Warning: Accessed None trying to read property FireSound
+	PB_Soldier01_C /Game/MainFolder/UEDPIE_0_main.main:PersistentLevel.PB_Soldier01_C_0
+	Function /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C:StopFiringWeapon:0033
+[2023.09.26-15.22.44:036][687]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FireSound". Blueprint:  PB_Soldier01 Function:  Stop Firing Weapon Graph:  StopFiringWeapon Node:  Stop
+[2023.09.26-15.22.44:494][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.22.44:494][712]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.22.44:494][712]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-15.22.44:495][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.22.44:508][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-15.22.44:513][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.22.44:536][712]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-15.22.44:536][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.22.44:537][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.22.44:553][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.22.44:558][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.09.26-15.22.44:662][712]LogSlate: Took 0.001339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.26-15.22.44:670][713]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.09.26-15.22.46:602][819]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.22.46:610][819]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.22.50:367][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.09.26-15.22.53:810][107]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-15.22.53:816][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-15.22.53:816][107]PIE: New page: PIE session: main (26 wrz 2023, 19:22:53)
+[2023.09.26-15.22.53:816][107]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.22.53:818][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001905s)
+[2023.09.26-15.22.53:819][107]LogAIModule: Creating AISystem for world main
+[2023.09.26-15.22.53:834][107]LogPlayLevel: PIE: World Init took: (0.015409s)
+[2023.09.26-15.22.53:834][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.017459s)
+[2023.09.26-15.22.53:859][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.09.26-15.22.53:861][107]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.26-15.22.53:861][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-15.22.53:861][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-15.22.53:861][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-15.22.53:861][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-15.22.53:861][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-15.22.53:861][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-15.22.53:861][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-15.22.53:861][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-15.22.53:861][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-15.22.53:861][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-15.22.53:861][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-15.22.53:861][107]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-15.22.53:863][107]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-15.22.53:863][107]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-15.22.53:964][107]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-15.22.53:964][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-15.22.53:965][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-15.22.53:965][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-15.22.53:965][107]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-15.22.53:965][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-15.22.53:965][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-15.22.53:966][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-15.22.53:966][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-15.22.53:966][107]LogInit: FAudioDevice initialized.
+[2023.09.26-15.22.53:966][107]LogAudio: Display: Audio Device (ID: 7) registered with world 'main'.
+[2023.09.26-15.22.53:975][107]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.26-15.22.53:976][107]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.26-17.22.53
+[2023.09.26-15.22.53:976][107]LogWorld: Bringing up level for play took: 0.000457
+[2023.09.26-15.22.53:976][107]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.09.26-15.22.53:979][107]PIE: Server logged in
+[2023.09.26-15.22.53:980][107]PIE: Play in editor total start time 0,164 seconds.
+[2023.09.26-15.22.56:511][257]LogScript: Warning: Accessed None trying to read property FireSound
+	PB_Soldier01_C /Game/MainFolder/UEDPIE_0_main.main:PersistentLevel.PB_Soldier01_C_0
+	Function /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C:StopFiringWeapon:0033
+[2023.09.26-15.22.56:511][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FireSound". Blueprint:  PB_Soldier01 Function:  Stop Firing Weapon Graph:  StopFiringWeapon Node:  Stop
+[2023.09.26-15.22.57:295][304]LogScript: Warning: Accessed None trying to read property FireSound
+	PB_Soldier01_C /Game/MainFolder/UEDPIE_0_main.main:PersistentLevel.PB_Soldier01_C_0
+	Function /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C:StopFiringWeapon:0033
+[2023.09.26-15.22.57:295][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FireSound". Blueprint:  PB_Soldier01 Function:  Stop Firing Weapon Graph:  StopFiringWeapon Node:  Stop
+[2023.09.26-15.23.00:328][486]LogScript: Warning: Accessed None trying to read property FireSound
+	PB_Soldier01_C /Game/MainFolder/UEDPIE_0_main.main:PersistentLevel.PB_Soldier01_C_0
+	Function /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C:StopFiringWeapon:0033
+[2023.09.26-15.23.00:329][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FireSound". Blueprint:  PB_Soldier01 Function:  Stop Firing Weapon Graph:  StopFiringWeapon Node:  Stop
+[2023.09.26-15.23.00:565][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.23.00:565][498]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.23.00:565][498]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-15.23.00:566][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.23.00:574][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-15.23.00:590][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.23.00:613][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-15.23.00:613][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.23.00:614][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.23.00:629][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.23.00:633][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.09.26-15.23.00:744][499]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.26-15.23.15:489][373]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.23.15:496][373]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.24.09:635][311]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/RandomFireLoop081A02FC43E7CDE12F5E7D9EDD0AEE5F.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.uasset'
+[2023.09.26-15.24.09:663][311]AssetCheck: New page: Asset Save: RandomFireLoop
+[2023.09.26-15.24.09:663][311]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.RandomFireLoop
+[2023.09.26-15.24.21:124][772]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-15.24.21:129][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-15.24.21:129][772]PIE: New page: PIE session: main (26 wrz 2023, 19:24:21)
+[2023.09.26-15.24.21:129][772]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.24.21:132][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001989s)
+[2023.09.26-15.24.21:133][772]LogAIModule: Creating AISystem for world main
+[2023.09.26-15.24.21:133][772]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2023.09.26-15.24.21:133][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.003026s)
+[2023.09.26-15.24.21:160][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.09.26-15.24.21:163][772]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.09.26-15.24.21:163][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-15.24.21:163][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-15.24.21:163][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-15.24.21:163][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-15.24.21:163][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-15.24.21:163][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-15.24.21:163][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-15.24.21:163][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-15.24.21:163][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-15.24.21:163][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-15.24.21:163][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-15.24.21:163][772]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-15.24.21:165][772]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-15.24.21:165][772]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-15.24.21:265][772]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-15.24.21:265][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-15.24.21:265][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-15.24.21:265][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-15.24.21:266][772]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-15.24.21:266][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-15.24.21:266][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-15.24.21:267][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-15.24.21:267][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-15.24.21:267][772]LogInit: FAudioDevice initialized.
+[2023.09.26-15.24.21:267][772]LogAudio: Display: Audio Device (ID: 8) registered with world 'main'.
+[2023.09.26-15.24.21:273][772]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.26-15.24.21:275][772]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.26-17.24.21
+[2023.09.26-15.24.21:275][772]LogWorld: Bringing up level for play took: 0.000518
+[2023.09.26-15.24.21:275][772]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.09.26-15.24.21:278][772]PIE: Server logged in
+[2023.09.26-15.24.21:279][772]PIE: Play in editor total start time 0,15 seconds.
+[2023.09.26-15.24.21:838][803]LogScript: Warning: Accessed None trying to read property FireSound
+	PB_Soldier01_C /Game/MainFolder/UEDPIE_0_main.main:PersistentLevel.PB_Soldier01_C_0
+	Function /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C:StopFiringWeapon:0033
+[2023.09.26-15.24.21:838][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FireSound". Blueprint:  PB_Soldier01 Function:  Stop Firing Weapon Graph:  StopFiringWeapon Node:  Stop
+[2023.09.26-15.24.26:272][ 69]LogScript: Warning: Accessed None trying to read property FireSound
+	PB_Soldier01_C /Game/MainFolder/UEDPIE_0_main.main:PersistentLevel.PB_Soldier01_C_0
+	Function /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C:StopFiringWeapon:0033
+[2023.09.26-15.24.26:272][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FireSound". Blueprint:  PB_Soldier01 Function:  Stop Firing Weapon Graph:  StopFiringWeapon Node:  Stop
+[2023.09.26-15.24.26:639][ 91]LogScript: Warning: Accessed None trying to read property FireSound
+	PB_Soldier01_C /Game/MainFolder/UEDPIE_0_main.main:PersistentLevel.PB_Soldier01_C_0
+	Function /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C:StopFiringWeapon:0033
+[2023.09.26-15.24.26:639][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FireSound". Blueprint:  PB_Soldier01 Function:  Stop Firing Weapon Graph:  StopFiringWeapon Node:  Stop
+[2023.09.26-15.24.29:934][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.24.29:934][284]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.24.29:935][284]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-15.24.29:935][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.24.29:946][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-15.24.29:963][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.24.29:985][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-15.24.29:985][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.24.29:987][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.24.30:002][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.24.30:013][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.09.26-15.24.30:123][285]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.09.26-15.24.36:678][667]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.24.36:686][667]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.28.04:334][627]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.28.04:343][627]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.29.04:020][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.09.26-15.29.04:023][  2]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.036
+[2023.09.26-15.29.04:023][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/PB_Soldier01] ([2] browsable assets)...
+[2023.09.26-15.29.04:072][  2]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01]
+[2023.09.26-15.29.04:072][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/PB_Soldier01]
+[2023.09.26-15.29.04:097][  2]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01_Auto1B3A902D34DDA83B20612E28236765544.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Blueprints/Pawns/PB_Soldier01_Auto1.uasset'
+[2023.09.26-15.29.04:099][  2]LogFileHelpers: Auto-saving content packages took 0.076
+[2023.09.26-15.33.08:109][499]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.26-15.33.08:170][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.09.26-15.33.13:666][784]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-15.33.13:676][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-15.33.13:676][784]PIE: New page: PIE session: main (26 wrz 2023, 19:33:13)
+[2023.09.26-15.33.13:677][784]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.33.13:679][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003057s)
+[2023.09.26-15.33.13:680][784]LogAIModule: Creating AISystem for world main
+[2023.09.26-15.33.13:682][784]LogPlayLevel: PIE: World Init took: (0.002091s)
+[2023.09.26-15.33.13:682][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.005375s)
+[2023.09.26-15.33.13:720][784]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2023.09.26-15.33.13:721][784]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.09.26-15.33.13:721][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-15.33.13:721][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-15.33.13:721][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-15.33.13:721][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-15.33.13:721][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-15.33.13:721][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-15.33.13:721][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-15.33.13:721][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-15.33.13:721][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-15.33.13:721][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-15.33.13:721][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-15.33.13:721][784]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-15.33.13:724][784]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-15.33.13:724][784]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-15.33.13:853][784]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-15.33.13:853][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-15.33.13:853][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-15.33.13:854][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-15.33.13:854][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-15.33.13:854][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-15.33.13:854][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-15.33.13:855][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-15.33.13:855][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-15.33.13:855][784]LogInit: FAudioDevice initialized.
+[2023.09.26-15.33.13:855][784]LogAudio: Display: Audio Device (ID: 9) registered with world 'main'.
+[2023.09.26-15.33.13:867][784]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.26-15.33.13:868][784]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.26-17.33.13
+[2023.09.26-15.33.13:869][784]LogWorld: Bringing up level for play took: 0.000576
+[2023.09.26-15.33.13:869][784]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.09.26-15.33.13:873][784]PIE: Server logged in
+[2023.09.26-15.33.13:874][784]PIE: Play in editor total start time 0,199 seconds.
+[2023.09.26-15.33.21:774][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.33.21:774][250]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.33.21:774][250]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-15.33.21:775][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.33.21:787][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-15.33.21:809][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.33.21:837][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-15.33.21:838][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.33.21:839][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.33.21:849][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.33.21:864][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.09.26-15.33.21:898][251]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.09.26-15.33.34:552][875]LogSlate: Window 'Delete Variable' being destroyed
+[2023.09.26-15.34.45:758][631]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.26-15.34.45:764][631]LogBlueprint: Error: [AssetLog] C:\Users\1465500\Documents\GitHub\Shoter\TopDownShooterBsz\Content\Blueprints\Pawns\PB_Soldier01.uasset: [Compiler] This blueprint (self) is not a AudioComponent, therefore ' Target ' must have a connection.
+[2023.09.26-15.34.45:811][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.09.26-15.34.54:295][106]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-15.34.54:301][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-15.34.54:301][106]BlueprintLog: Warning: Blueprint failed to compile:  PB_Soldier01
+[2023.09.26-15.34.54:301][106]LogCustomDialog: Dialog displayed:
+[2023.09.26-15.34.59:020][106]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.09.26-15.35.00:226][175]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.35.00:231][175]LogSlate: Window 'Message Log' being destroyed
+[2023.09.26-15.36.05:226][174]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.26-15.36.05:276][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.09.26-15.36.06:939][265]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/RandomFireLoop756B3BBA4841ACFE9499E19361088FBD.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.uasset'
+[2023.09.26-15.36.06:954][265]AssetCheck: New page: Asset Save: RandomFireLoop
+[2023.09.26-15.36.06:954][265]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RandomFireLoop.RandomFireLoop
+[2023.09.26-15.36.10:125][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.09.26-15.36.10:177][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/PB_Soldier01" FILE="../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Blueprints/Pawns/PB_Soldier01.uasset" SILENT=true
+[2023.09.26-15.36.10:199][448]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01C531A127438BB4260FD4CD876205FBE7.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Blueprints/Pawns/PB_Soldier01.uasset'
+[2023.09.26-15.36.10:215][448]AssetCheck: New page: Asset Save: PB_Soldier01
+[2023.09.26-15.36.10:216][448]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01
+[2023.09.26-15.36.12:971][598]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-15.36.12:976][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-15.36.12:977][598]PIE: New page: PIE session: main (26 wrz 2023, 19:36:12)
+[2023.09.26-15.36.12:977][598]LogPlayLevel: Creating play world package: /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.36.12:979][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001914s)
+[2023.09.26-15.36.12:979][598]LogAIModule: Creating AISystem for world main
+[2023.09.26-15.36.12:980][598]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2023.09.26-15.36.12:980][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFolder/main.main to /Game/MainFolder/UEDPIE_0_main.main (0.002959s)
+[2023.09.26-15.36.13:004][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.09.26-15.36.13:004][598]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.09.26-15.36.13:004][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-15.36.13:004][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-15.36.13:004][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-15.36.13:004][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-15.36.13:005][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-15.36.13:005][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-15.36.13:005][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-15.36.13:005][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-15.36.13:005][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-15.36.13:005][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-15.36.13:005][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-15.36.13:005][598]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-15.36.13:007][598]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-15.36.13:007][598]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-15.36.13:092][598]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-15.36.13:092][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-15.36.13:092][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-15.36.13:092][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-15.36.13:093][598]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-15.36.13:093][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-15.36.13:093][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-15.36.13:094][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-15.36.13:094][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-15.36.13:094][598]LogInit: FAudioDevice initialized.
+[2023.09.26-15.36.13:094][598]LogAudio: Display: Audio Device (ID: 10) registered with world 'main'.
+[2023.09.26-15.36.13:106][598]LogLoad: Game class is 'BP_TopDownShooterGamemode01_C'
+[2023.09.26-15.36.13:108][598]LogWorld: Bringing World /Game/MainFolder/UEDPIE_0_main.main up for play (max tick rate 60) at 2023.09.26-17.36.13
+[2023.09.26-15.36.13:108][598]LogWorld: Bringing up level for play took: 0.000506
+[2023.09.26-15.36.13:108][598]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.09.26-15.36.13:112][598]PIE: Server logged in
+[2023.09.26-15.36.13:113][598]PIE: Play in editor total start time 0,137 seconds.
+[2023.09.26-15.36.24:293][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.36.24:294][265]LogWorld: BeginTearingDown for /Game/MainFolder/UEDPIE_0_main
+[2023.09.26-15.36.24:294][265]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-15.36.24:294][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.36.24:302][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-15.36.24:317][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-15.36.24:339][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-15.36.24:339][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.36.24:341][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-15.36.24:357][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-15.36.24:360][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.09.26-15.36.24:389][266]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.09.26-15.36.48:008][122]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.09.26-15.36.48:023][122]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.09.26-15.36.55:934][593]LogContentBrowser: Attempting asset rename: NewSoundCue -> SopFireEnd
+[2023.09.26-15.36.55:934][593]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.09.26-15.36.58:831][756]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/SopFireEnd.SopFireEnd
+[2023.09.26-15.37.25:819][450]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd01_Stereo...
+[2023.09.26-15.37.25:819][450]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.AssaultRifle_ShotEnd01_Stereo will be modified from 80 to 80.
+[2023.09.26-15.37.25:838][450]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 256020 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.AssaultRifle_ShotEnd01_Stereo.
+[2023.09.26-15.37.37:156][ 51]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd02_Stereo...
+[2023.09.26-15.37.37:156][ 51]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.AssaultRifle_ShotEnd02_Stereo will be modified from 80 to 80.
+[2023.09.26-15.37.37:177][ 51]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 316788 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.AssaultRifle_ShotEnd02_Stereo.
+[2023.09.26-15.37.41:329][256]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd03_Stereo...
+[2023.09.26-15.37.41:330][256]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.AssaultRifle_ShotEnd03_Stereo will be modified from 80 to 80.
+[2023.09.26-15.37.41:349][256]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 304952 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.AssaultRifle_ShotEnd03_Stereo.
+[2023.09.26-15.37.48:991][637]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd04_Stereo...
+[2023.09.26-15.37.48:991][637]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.AssaultRifle_ShotEnd04_Stereo will be modified from 80 to 80.
+[2023.09.26-15.37.49:008][637]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 272260 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.AssaultRifle_ShotEnd04_Stereo.
+[2023.09.26-15.37.54:499][907]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd05_Stereo...
+[2023.09.26-15.37.54:499][907]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.AssaultRifle_ShotEnd05_Stereo will be modified from 80 to 80.
+[2023.09.26-15.37.54:520][907]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 328084 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.AssaultRifle_ShotEnd05_Stereo.
+[2023.09.26-15.37.59:894][156]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd06_Stereo...
+[2023.09.26-15.37.59:894][156]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.AssaultRifle_ShotEnd06_Stereo will be modified from 80 to 80.
+[2023.09.26-15.37.59:914][156]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 315384 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.AssaultRifle_ShotEnd06_Stereo.
+[2023.09.26-15.39.08:814][472]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/SopFireEnd.SopFireEnd was zero and has changed. Consider manually Re-saving the asset
+[2023.09.26-15.39.23:717][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.09.26-15.39.23:737][361]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/SopFireEnd8EEC74E548B531AAC199579232F76F6C.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Sounds/Weapon_AssaultRifle/Stereo/SopFireEnd.uasset'
+[2023.09.26-15.39.23:752][361]AssetCheck: New page: Asset Save: SopFireEnd
+[2023.09.26-15.39.23:752][361]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/SopFireEnd.SopFireEnd
