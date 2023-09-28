@@ -936,3 +936,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.28-11.15.18:726][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.09.28-11.15.18:794][711]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2023.09.28-11.15.18:794][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-11.16.40:415][488]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/AM_AISpider.AM_AISpider
+[2023.09.28-11.16.40:420][488]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.17.00:437][648]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-11.17.00:438][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-11.17.09:127][160]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-11.17.09:127][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-11.17.39:810][141]LogRenderer: Reallocating scene render targets to support 912x412 Format 10 NumSamples 1 (Frame:2663).
+[2023.09.28-11.18.10:933][722]LogRenderer: Reallocating scene render targets to support 916x412 Format 10 NumSamples 1 (Frame:4237).
+[2023.09.28-11.18.10:979][723]LogRenderer: Reallocating scene render targets to support 928x412 Format 10 NumSamples 1 (Frame:4239).
+[2023.09.28-11.18.11:014][724]LogRenderer: Reallocating scene render targets to support 984x412 Format 10 NumSamples 1 (Frame:4241).
+[2023.09.28-11.18.11:060][725]LogRenderer: Reallocating scene render targets to support 1032x412 Format 10 NumSamples 1 (Frame:4243).
+[2023.09.28-11.18.11:107][726]LogRenderer: Reallocating scene render targets to support 1048x412 Format 10 NumSamples 1 (Frame:4245).
+[2023.09.28-11.18.22:449][956]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.09.28-11.18.22:464][956]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.09.28-11.19.05:630][192]BlueprintLog: New page: Compile PB_Spider
+[2023.09.28-11.19.05:769][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.09.28-11.19.05:800][192]LogSlate: Took 0.000608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.28-11.19.09:755][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.09.28-11.19.09:796][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.28-11.19.09:803][413]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/main3A74137B496EBA2C3304D5B8A95DD7DE.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/MainFolder/main.umap'
+[2023.09.28-11.19.09:821][413]LogFileHelpers: Saving map 'main' took 0.048
+[2023.09.28-11.19.09:845][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PB_Spider" FILE="../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/AI/PB_Spider.uasset" SILENT=true
+[2023.09.28-11.19.09:863][413]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Spider54E4837249C5E945EAF7DB844649F5A4.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/AI/PB_Spider.uasset'
+[2023.09.28-11.19.09:865][413]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/SK_Greater_Spider_SkeletonAC2E39004954AFDF17B07E993CBE99A1.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset'
+[2023.09.28-11.19.09:893][413]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AM_AISpider47F62FF6475BFB4451ACAAB0F9503E34.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Enemy_Great_Spider/Animations/AM_AISpider.uasset'
+[2023.09.28-11.19.09:912][413]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.28-11.19.09:912][413]LogContentValidation: Display: Validating Skeleton /Game/Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.SK_Greater_Spider_Skeleton
+[2023.09.28-11.19.09:912][413]LogContentValidation: Display: Validating Blueprint /Game/AI/PB_Spider.PB_Spider
+[2023.09.28-11.19.09:912][413]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/AM_AISpider.AM_AISpider
+[2023.09.28-11.19.09:912][413]LogContentValidation: Display: Validating World /Game/MainFolder/main.main
+[2023.09.28-11.19.14:711][556]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Enemy_Great_Spider/Animations/GiantEnemySpider.GiantEnemySpider
+[2023.09.28-11.19.14:716][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.19.15:294][556]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.28-11.20.55:120][905]BlueprintLog: New page: Compile GiantEnemySpider
+[2023.09.28-11.20.55:168][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.09.28-11.20.57:480][ 22]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AM_AISpider3F888DEB4D7DD4B598B58D9F15413C52.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Enemy_Great_Spider/Animations/AM_AISpider.uasset'
+[2023.09.28-11.20.57:492][ 22]AssetCheck: New page: Asset Save: AM_AISpider
+[2023.09.28-11.20.57:492][ 22]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/AM_AISpider.AM_AISpider
+[2023.09.28-11.21.00:272][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2023.09.28-11.21.00:330][182]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/GiantEnemySpider384C30DF45882E9805BB7798A9020F19.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Content/Characters/Enemy_Great_Spider/Animations/GiantEnemySpider.uasset'
+[2023.09.28-11.21.00:345][182]AssetCheck: New page: Asset Save: GiantEnemySpider
+[2023.09.28-11.21.00:345][182]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Enemy_Great_Spider/Animations/GiantEnemySpider.GiantEnemySpider
+[2023.09.28-11.21.33:740][ 62]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2023.09.28-11.21.33:759][ 62]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.21.34:052][ 63]LogRenderer: Reallocating scene render targets to support 1048x564 Format 10 NumSamples 1 (Frame:1).
+[2023.09.28-11.21.36:079][163]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-11.21.36:079][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-11.21.56:071][ 27]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Characters/Marine/Marine_PhysicsAsset.Marine_PhysicsAsset
+[2023.09.28-11.21.56:093][ 27]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2023.09.28-11.21.56:176][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.21.58:275][ 86]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-11.21.58:275][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-11.22.09:950][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01
+[2023.09.28-11.26.03:862][904]LogSlate: Window 'Delete Variable' being destroyed
+[2023.09.28-11.28.06:332][249]BlueprintLog: New page: Collapse to Function
+[2023.09.28-11.29.27:225][228]LogEditorTransaction: Undo Add Out Parameter
+[2023.09.28-11.29.27:327][228]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.29.27:331][228]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.29.51:179][  9]LogSlate: Took 0.004932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.09.28-11.30.02:412][646]LogEditorTransaction: Undo Break Pin Links
+[2023.09.28-11.30.02:507][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.30.02:510][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.30.03:527][690]LogEditorTransaction: Undo Add Out Parameter
+[2023.09.28-11.30.03:620][690]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.30.03:622][690]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.30.31:992][191]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2023.09.28-11.30.31:997][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFolder/main' took 0.080
+[2023.09.28-11.30.31:998][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy_Great_Spider/Animations/AM_AISpider] ([1] browsable assets)...
+[2023.09.28-11.30.32:019][191]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/AM_AISpider.AM_AISpider]
+[2023.09.28-11.30.32:019][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy_Great_Spider/Animations/AM_AISpider]
+[2023.09.28-11.30.32:024][191]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/AM_AISpider_Auto2A8EB858F4151DA9C3ABF5184ACDED24F.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Characters/Enemy_Great_Spider/Animations/AM_AISpider_Auto2.uasset'
+[2023.09.28-11.30.32:025][191]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/PB_Soldier01] ([4] browsable assets)...
+[2023.09.28-11.30.32:052][191]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C]
+[2023.09.28-11.30.32:072][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01]
+[2023.09.28-11.30.32:091][191]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01_C]
+[2023.09.28-11.30.32:112][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/PB_Soldier01.PB_Soldier01]
+[2023.09.28-11.30.32:112][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/PB_Soldier01]
+[2023.09.28-11.30.32:146][191]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/PB_Soldier01_Auto23DE8EF944E54A36B8C93DD93C6B3C95B.tmp' to '../../../../../../Users/1465500/Documents/GitHub/Shoter/TopDownShooterBsz/Saved/Autosaves/Game/Blueprints/Pawns/PB_Soldier01_Auto2.uasset'
+[2023.09.28-11.30.32:147][191]LogFileHelpers: Auto-saving content packages took 0.150
+[2023.09.28-11.33.32:589][101]LogEditorTransaction: Undo Add In Parameter
+[2023.09.28-11.33.32:694][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.33.32:697][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.28-11.34.48:396][661]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.28-11.34.48:487][661]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2023.09.28-11.35.23:510][208]BlueprintLog: New page: Compile PB_Soldier01
+[2023.09.28-11.35.23:578][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
